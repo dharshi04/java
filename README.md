@@ -1,2 +1,2 @@
 # java
-This is java edited file twice.
+This is java edited file A.
